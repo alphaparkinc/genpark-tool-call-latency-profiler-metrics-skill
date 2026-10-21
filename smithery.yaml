@@ -1,0 +1,7 @@
+name: genpark-tool-call-latency-profiler-metrics-skill
+description: High-resolution MCP tool call latency profiler and P50/P90/P95/P99 telemetry metrics collector
+version: 1.0.1
+entrypoint: mcp_server.py
+command: python
+args:
+  - mcp_server.py
