@@ -1,0 +1,9 @@
+{
+  "name": "genpark-tool-call-latency-profiler-metrics-skill",
+  "version": "1.0.1",
+  "description": "High-resolution MCP tool call latency profiler and P50/P90/P95/P99 telemetry metrics collector",
+  "author": "GenPark AI",
+  "license": "MIT",
+  "homepage": "https://www.genpark.ai",
+  "entrypoint": "mcp_server.py"
+}
